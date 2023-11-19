@@ -6,13 +6,36 @@ For both teaching methods:
   
 ## Credit Transfer in Education
 
+Problem we want to solve: 
+- Months of credit validation administrative process to validate university credits from one to another.
+- Provide a certification solution to non acredited schools, by examining the student and certify it with an NFT.
+- Give an oportunity to ALL students to demostrate their learnings and reduse inequality.  
+
+
 ## Summary
 
 UniCycle is a  transferring credits to students from Universities as well as non acredited schools. In the case of universities, credits are converted into tokens and securely transferred using public key encryption and hashing. Upon course completion, credits are converted into tokens and stored in the blockchain wallet.
 
-## 2. State of the art academic literature
+## State of the art academic literature
 
 The project aligns with ongoing initiatives in applying blockchain to education. Earlier models tackled challenges like preventing certificate forgery, facilitating credit transfers, and enhancing data security. Blockchain-based systems bring forth advantages such as transparency, efficiency, and security in the storage and validation of academic credentials.
+
+## Real requested solution from an University 
+
+
+
+## User Path
+
+![Main goal](https://github.com/avdheshcharjan/UniCycle/assets/114303420/9c1b8aac-f376-450e-be54-063a9af169f6)
+
+![Achieved](https://github.com/avdheshcharjan/UniCycle/assets/114303420/142c52e8-737b-44ef-a478-a9519b179f10)
+
+We are going to divide the explainantion by the two users:
+From the school, or a non acredited learning academy case, the university is going to publish their courses, the student then can register to those courses. A Student will recieve a registartion attestation enrolment pass, proving that he is well enrolled into the course. At the end of the course he will take our online quizz and if he passes, he will recieve an NFT, thus beeing able to demostrate that he has well learned the content from the course.
+On the other hand, the universities will publish their courses, the student will enroll and recieve a course registration attestation pass as well. He will make some exams and if he passes he will recieve the credits (tokens) from the course, beeing able to get to his objective of graduating, demosytrate his learnings and validate them to another university if he changes. 
+
+To do, further:
+However, we didn't had time to deploy the mulisig from the teacher, administartion and director to activate the rewards. As neighter, to store the full content of the course description and project done. 
 
 ## Implementation
 
