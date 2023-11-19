@@ -26,9 +26,9 @@ The project aligns with ongoing initiatives in applying blockchain to education.
 
 ## User Path
 
-![Main goal](https://github.com/avdheshcharjan/UniCycle/assets/114303420/9c1b8aac-f376-450e-be54-063a9af169f6)
+![Main goal](https://github.com/avdheshcharjan/UniCycle/assets/114303420/755e9369-5496-4752-9a38-586d9cb87d3e)
 
-![Achieved](https://github.com/avdheshcharjan/UniCycle/assets/114303420/142c52e8-737b-44ef-a478-a9519b179f10)
+![Achieved](https://github.com/avdheshcharjan/UniCycle/assets/114303420/6af05c42-ff1b-4cc3-be19-9accd5f147df)
 
 We are going to divide the explainantion by the two users:
 From the school, or a non acredited learning academy case, the university is going to publish their courses, the student then can register to those courses. A Student will recieve a registartion attestation enrolment pass, proving that he is well enrolled into the course. At the end of the course he will take our online quizz and if he passes, he will recieve an NFT, thus beeing able to demostrate that he has well learned the content from the course.
