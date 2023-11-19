@@ -20,6 +20,8 @@ Problem we want to solve:
 
 UniCycle is a  transferring credits to students from Universities as well as non acredited schools. In the case of universities, credits are converted into tokens and securely transferred using public key encryption and hashing. Upon course completion, credits are converted into tokens and stored in the blockchain wallet.
 
+Presentation link: https://www.canva.com/design/DAF0lPPDY1g/0ij1brwPui5SEm1kLuNi7Q/edit?utm_content=DAF0lPPDY1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## State of the art academic literature
 
 The project aligns with ongoing initiatives in applying blockchain to education. Earlier models tackled challenges like preventing certificate forgery, facilitating credit transfers, and enhancing data security. Blockchain-based systems bring forth advantages such as transparency, efficiency, and security in the storage and validation of academic credentials.
