@@ -4,6 +4,10 @@ For both teaching methods:
 - by university credits issued tokens
 - by schools claiming an NFT for students evaluated succesfully
   
+## Other Repos (in continuation):
+College Credits/Course Registration and university pass: https://github.com/avdheshcharjan/unicycle-course-registration
+Token Transfer to other colleges: https://github.com/avdheshcharjan/unicycle-token-transfer
+  
 ## Credit Transfer in Education
 
 Problem we want to solve: 
