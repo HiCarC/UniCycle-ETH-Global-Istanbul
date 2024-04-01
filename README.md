@@ -1,4 +1,4 @@
-_[Pool prize winner of WorldCoin at ETH Global Istanbul 2023]
+[Pool prize winner of WorldCoin at ETH Global Istanbul 2023]
 
 # UniCycle
 Public good on-chain global learning certification (ETH Global Istanbul 2023 Submission).
